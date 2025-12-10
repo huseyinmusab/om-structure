@@ -60,6 +60,7 @@ public class CustomerStepDefinitions {
     @Given("I am a guest customer")
     public void i_am_a_guest_customer() {
 
+
 //        driver = new ChromeDriver();
 //        driver.manage().window().maximize();
 //        driver = DriverFactory.getDriver();
