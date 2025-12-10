@@ -1,0 +1,5 @@
+Here's the list of great articles on Example mapping direct from the sources:
+
+https://cucumber.io/docs/bdd/example-mapping/
+https://cucumber.io/blog/bdd/example-mapping-introduction/
+https://cucumber.io/blog/bdd/your-first-example-mapping-session/
